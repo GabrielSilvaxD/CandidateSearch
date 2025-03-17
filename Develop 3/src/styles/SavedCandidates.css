@@ -1,0 +1,15 @@
+.saved-candidates {
+    text-align: center;
+    padding: 20px;
+  }
+  .candidate-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .candidate-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 300px;
+  }
